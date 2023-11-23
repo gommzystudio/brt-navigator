@@ -2,8 +2,8 @@ from typing import List
 
 import numpy as np
 
-from navigation.conesorting import Conesorter
-from navigation.pathfinding import Pathfinder
+from navigation.conesorting.conesorter import Conesorter
+from navigation.pathfinding.pathfinder import Pathfinder
 
 
 class Navigator:

@@ -1,8 +1,8 @@
 from time import sleep
 import numpy as np
 
-from demo.generateOptimalTrack import generateOptimalTrack
-from demo.visualization.View import View
+from demo.generate_optimal_track import generateOptimalTrack
+from demo.visualization.view import View
 
 view = View()
 

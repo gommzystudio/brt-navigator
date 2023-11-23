@@ -1,4 +1,4 @@
-from navigation.pathfinding.Pathfinder import Pathfinder
+from navigation.pathfinding.pathfinder import Pathfinder
 
 
 class TrackdrivePathfinder(Pathfinder):
